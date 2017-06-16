@@ -1,0 +1,21 @@
+{
+  "name": "madsonic-albumservice",
+  "version": "0.0.0",
+  "description": "madsonic-albumservice",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dreagan",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "joi": "^10.5.2",
+    "node-class": "^0.3.12",
+    "restify": "^4.3.0",
+    "winston": "^2.3.1"
+  }
+}
