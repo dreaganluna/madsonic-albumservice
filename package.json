@@ -13,8 +13,6 @@
   "license": "ISC",
   "homepage": "",
   "dependencies": {
-    "joi": "^10.5.2",
-    "node-class": "^0.3.12",
     "restify": "^4.3.0",
     "winston": "^2.3.1"
   }
